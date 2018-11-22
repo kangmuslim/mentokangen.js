@@ -1,0 +1,2 @@
+# mentokangen.js
+mentokangen
